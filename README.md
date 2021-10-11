@@ -1,3 +1,3 @@
 ## 인프런 WEB2 - Node.js
 
-https://opentutorials.org/course/3332
+Javascript를 활용한 Node.js 기초
